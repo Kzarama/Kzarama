@@ -1,16 +1,23 @@
+# Kevin Zarama - Kzarama
+
 ### Hi there 👋
 
-<!--
-**Kzarama/kzarama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at ICESI University
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning web development
+
+- 👯 I’m looking to collaborate on all type of projeccts
+
+- 🤔 I’m looking for help with all 
+
+- 💬 Ask me about
+
+
+---
+
+Contact
+- [Linkedin](https://www.linkedin.com/in/kevin-zarama/)
+
+- [Facebook](https://www.facebook.com/people/Kevin-Zarama/100005800039156)
