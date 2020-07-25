@@ -31,4 +31,4 @@ Contact
 
 - [Linkedin](https://www.linkedin.com/in/kevin-zarama/)
 - [Facebook](https://www.facebook.com/people/Kevin-Zarama/100005800039156)
-- [Email](maito:zaramaluna1999@hotmail.com)
+- Email = zaramaluna1999@hotmail.com
