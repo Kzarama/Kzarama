@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
 Software Engineering student at ICESI University
 
 ---
