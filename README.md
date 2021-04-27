@@ -16,6 +16,7 @@ Software Engineering student at ICESI University
 ## Skills
 
 - [Python](https://github.com/Kzarama/Python)
+- R
 - Java
 - [Vue](https://github.com/Kzarama/vue.js)
 - [React](https://github.com/Kzarama/React)
