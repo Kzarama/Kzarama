@@ -6,10 +6,10 @@ Software Engineering student at ICESI University and development intern at pragm
 
 ---
 
--   Working in Pragma.
--   Learning web development.
--   I’m looking to collaborate on all type of projeccts.
--   Ask me about.
+- Working in Pragma.
+- Learning web development.
+- I’m looking to collaborate on all type of projeccts.
+- Ask me about.
 
 ![Visitor Count](https://profile-counter.glitch.me/kzarama/count.svg)
 
@@ -18,30 +18,30 @@ Software Engineering student at ICESI University and development intern at pragm
 ## Skills
 
 <div align=center>
-<img src=".images/python.png" alt="python" width=50px/>
-<img src=".images/r.png" alt="r" width=50px/>
-<img src=".images/java.png" alt="java" width=50px/>
-<img src=".images/vue.png" alt="vue" width=50px/>
-<img src=".images/angular.png" alt="angular" width=50px/>
-<img src=".images/react.png" alt="react" width=50px/>
-<img src=".images/go.png" alt="go" width=50px/>
-<img src=".images/csharp.png" alt="csharp" width=50px/>
-<img src=".images/sql.png" alt="sql" width=50px/>
-<img src=".images/c++.png" alt="c++" width=50px/>
-<img src=".images/arduino.png" alt="arduino" width=50px/>
+<img src=".images/python.png" alt="python" width=50px height=50px />
+<img src=".images/r.png" alt="r" width=50px height=50px />
+<img src=".images/java.png" alt="java" width=50px height=50px />
+<img src=".images/vue.png" alt="vue" width=50px height=50px />
+<img src=".images/angular.png" alt="angular" width=50px height=50px />
+<img src=".images/react.png" alt="react" width=50px height=50px />
+<img src=".images/go.png" alt="go" width=50px height=50px />
+<img src=".images/csharp.png" alt="csharp" width=50px height=50px />
+<img src=".images/sql.png" alt="sql" width=50px height=50px />
+<img src=".images/c++.png" alt="c++" width=50px height=50px />
+<img src=".images/arduino.png" alt="arduino" width=50px height=50px />
 </div>
 <div align=center>
-<img src=".images/aws.png" alt="aws" width=50px/>
-<img src=".images/django.png" alt="django" width=50px/>
-<img src=".images/docker.png" alt="docker" width=50px/>
-<img src=".images/flask.png" alt="flask" width=50px/>
-<img src=".images/git.png" alt="git" width=50px/>
-<img src=".images/heroku.png" alt="heroku" width=50px/>
-<img src=".images/js.png" alt="js" width=50px/>
-<img src=".images/ts.png" alt="ts" width=50px/>
-<img src=".images/html.png" alt="html" width=50px/>
-<img src=".images/css.png" alt="css" width=50px/>
-<img src=".images/linux.png" alt="linux" width=50px/>
+<img src=".images/aws.png" alt="aws" width=50px height=50px />
+<img src=".images/django.png" alt="django" width=50px height=50px />
+<img src=".images/docker.png" alt="docker" width=50px height=50px />
+<img src=".images/flask.png" alt="flask" width=50px height=50px />
+<img src=".images/git.png" alt="git" width=50px height=50px />
+<img src=".images/heroku.png" alt="heroku" width=50px height=50px>
+<img src=".images/typescript.png" alt="typescript" width=50px height=50px />
+<img src=".images/javascript.png" alt="javascript" width=50px height=50px />
+<img src=".images/html.png" alt="html" width=50px height=50px />
+<img src=".images/css.png" alt="css" width=50px height=50px />
+<img src=".images/linux.png" alt="linux" width=50px height=50px />
 </div>
 
 <br />
