@@ -29,6 +29,8 @@ Software Engineering student at ICESI University and development intern at pragm
 <img src=".images/sql.png" alt="sql" width=50px/>
 <img src=".images/c++.png" alt="c++" width=50px/>
 <img src=".images/arduino.png" alt="arduino" width=50px/>
+</div>
+<div align=center>
 <img src=".images/aws.png" alt="aws" width=50px/>
 <img src=".images/django.png" alt="django" width=50px/>
 <img src=".images/docker.png" alt="docker" width=50px/>
