@@ -18,30 +18,30 @@ Software Engineering student at ICESI University and development intern at pragm
 ## Skills
 
 <div align=center>
-<img width=50px height=50px style="margin:10px" src=".images/python.png" alt="python" />
-<img width=50px height=50px style="margin:10px" src=".images/r.png" alt="r" />
-<img width=50px height=50px style="margin:10px" src=".images/java.png" alt="java" />
-<img width=50px height=50px style="margin:10px" src=".images/vue.png" alt="vue" />
-<img width=50px height=50px style="margin:10px" src=".images/angular.png" alt="angular" />
-<img width=50px height=50px style="margin:10px" src=".images/react.png" alt="react" />
-<img width=50px height=50px style="margin:10px" src=".images/go.png" alt="go" />
-<img width=50px height=50px style="margin:10px" src=".images/csharp.png" alt="csharp" />
-<img width=50px height=50px style="margin:10px" src=".images/sql.png" alt="sql" />
-<img width=50px height=50px style="margin:10px" src=".images/c++.png" alt="c++" />
-<img width=50px height=50px style="margin:10px" src=".images/arduino.png" alt="arduino" />
+<img width=50px height=50px style="margin:20px" src=".images/python.png" alt="python" />
+<img width=50px height=50px style="margin:20px" src=".images/r.png" alt="r" />
+<img width=50px height=50px style="margin:20px" src=".images/java.png" alt="java" />
+<img width=50px height=50px style="margin:20px" src=".images/vue.png" alt="vue" />
+<img width=50px height=50px style="margin:20px" src=".images/angular.png" alt="angular" />
+<img width=50px height=50px style="margin:20px" src=".images/react.png" alt="react" />
+<img width=50px height=50px style="margin:20px" src=".images/go.png" alt="go" />
+<img width=50px height=50px style="margin:20px" src=".images/csharp.png" alt="csharp" />
+<img width=50px height=50px style="margin:20px" src=".images/sql.png" alt="sql" />
+<img width=50px height=50px style="margin:20px" src=".images/c++.png" alt="c++" />
+<img width=50px height=50px style="margin:20px" src=".images/arduino.png" alt="arduino" />
 </div>
 <div align=center>
-<img width=50px height=50px style="margin:10px" src=".images/aws.png" alt="aws" />
-<img width=50px height=50px style="margin:10px" src=".images/django.png" alt="django" />
-<img width=50px height=50px style="margin:10px" src=".images/docker.png" alt="docker" />
-<img width=50px height=50px style="margin:10px" src=".images/flask.png" alt="flask" />
-<img width=50px height=50px style="margin:10px" src=".images/git.png" alt="git" />
-<img width=50px height=50px style="margin:10px" src=".images/heroku.png" alt="heroku" />
-<img width=50px height=50px style="margin:10px" src=".images/typescript.png" alt="typescript" />
-<img width=50px height=50px style="margin:10px" src=".images/javascript.png" alt="javascript" />
-<img width=50px height=50px style="margin:10px" src=".images/html.png" alt="html" />
-<img width=50px height=50px style="margin:10px" src=".images/css.png" alt="css" />
-<img width=50px height=50px style="margin:10px" src=".images/linux.png" alt="linux" />
+<img width=50px height=50px style="margin:20px" src=".images/aws.png" alt="aws" />
+<img width=50px height=50px style="margin:20px" src=".images/django.png" alt="django" />
+<img width=50px height=50px style="margin:20px" src=".images/docker.png" alt="docker" />
+<img width=50px height=50px style="margin:20px" src=".images/flask.png" alt="flask" />
+<img width=50px height=50px style="margin:20px" src=".images/git.png" alt="git" />
+<img width=50px height=50px style="margin:20px" src=".images/heroku.png" alt="heroku" />
+<img width=50px height=50px style="margin:20px" src=".images/typescript.png" alt="typescript" />
+<img width=50px height=50px style="margin:20px" src=".images/javascript.png" alt="javascript" />
+<img width=50px height=50px style="margin:20px" src=".images/html.png" alt="html" />
+<img width=50px height=50px style="margin:20px" src=".images/css.png" alt="css" />
+<img width=50px height=50px style="margin:20px" src=".images/linux.png" alt="linux" />
 </div>
 
 <br />
