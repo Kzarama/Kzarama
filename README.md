@@ -1,6 +1,6 @@
 <h1><img src=".images/wolf.png" width="50px"/>Kevin Zarama - kzarama</h1>
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="250">
+<img align='right' src=".images/octocat.gif" width="250">
 
 Software Engineering student at ICESI University and development intern at pragma.
 
