@@ -44,13 +44,19 @@ Software Engineering student at ICESI University and development intern at pragm
 <img src=".images/linux.png" alt="linux" width=50px/>
 </div>
 
+<br />
+
 <div align=center>
 
 [![kzarama's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzarama&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzarama&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<br />
 
 ---
 
