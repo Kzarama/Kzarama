@@ -17,7 +17,7 @@ Software Engineering student at ICESI University and development intern at pragm
 
 ## Skills
 
-<div>
+<div align=center>
 <img src=".images/python.png" alt="python" width=50px/>
 <img src=".images/r.png" alt="r" width=50px/>
 <img src=".images/java.png" alt="java" width=50px/>
@@ -42,22 +42,22 @@ Software Engineering student at ICESI University and development intern at pragm
 <img src=".images/linux.png" alt="linux" width=50px/>
 </div>
 
-<center>
+<div align=center>
 
 [![kzarama's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzarama&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzarama&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</center>
+</div>
 
 ---
 
 ## Contact
 
-<center>
+<div align=center>
 
 <a href="https://www.linkedin.com/in/kevin-zarama/"><img src=".images/linkedin.png" alt="linkedin" width="95px" /></a>
 <a href="https://www.facebook.com/people/Kevin-Zarama/100005800039156"><img src=".images/facebook.png" alt="facebook" width="130px" /></a>
 <a href="mailto:zaramaluna1999@hotmail.com"><img src=".images/outlook.png" alt="outlook" width="100px" /></a>
 
-</center>
+</div>
