@@ -8,8 +8,8 @@ Software Engineering student at ICESI University and development intern at pragm
 
 -   Working in Pragma.
 -   Learning web development.
--   👯 I’m looking to collaborate on all type of projeccts.
--   💬 Ask me about.
+-   I’m looking to collaborate on all type of projeccts.
+-   Ask me about.
 
 ![Visitor Count](https://profile-counter.glitch.me/kzarama/count.svg)
 
