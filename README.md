@@ -49,7 +49,7 @@ Software Engineering student at ICESI University and development intern at pragm
 
 <div align=center>
 
-[![kzarama's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzarama&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![kzarama's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzarama&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
