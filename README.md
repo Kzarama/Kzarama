@@ -2,7 +2,7 @@
 
 <img align='right' src=".images/octocat.gif" width="250">
 
-Software Engineering student at ICESI University and development intern at pragma.
+Systems and Software Engineering student at ICESI University and development intern at Pragma.
 
 ---
 
