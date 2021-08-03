@@ -19,7 +19,7 @@ Systems and Software Engineering student at ICESI University and development int
 
 ## Skills
 
-<div style="text-align:center">
+<div align=center>
 <img width=50px height=50px src=".images/python.png" alt="python" />
 <img width=50px height=50px src=".images/django.png" alt="django" />
 <img width=50px height=50px src=".images/flask.png" alt="flask" />
@@ -32,7 +32,7 @@ Systems and Software Engineering student at ICESI University and development int
 <img width=50px height=50px src=".images/git.png" alt="git" />
 <img width=50px height=50px src=".images/docker.png" alt="docker" />
 </div>
-<div style="text-align:center">
+<div align=center>
 <img width=50px height=50px src=".images/vue.png" alt="vue" />
 <img width=50px height=50px src=".images/angular.png" alt="angular" />
 <img width=50px height=50px src=".images/react.png" alt="react" />
@@ -49,7 +49,7 @@ Systems and Software Engineering student at ICESI University and development int
 <br />
 <br />
 
-<div style="text-align:center">
+<div align=center>
 
 [![kzarama's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzarama&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -65,7 +65,7 @@ Systems and Software Engineering student at ICESI University and development int
 
 ## Contact
 
-<div style="text-align:center"
+<div align=center>
 
 <a href="https://www.linkedin.com/in/kevin-zarama/"><img src=".images/linkedin.png" alt="linkedin" width="95px" /></a>
 <a href="https://www.facebook.com/people/Kevin-Zarama/100005800039156"><img src=".images/facebook.png" alt="facebook" width="130px" /></a>
