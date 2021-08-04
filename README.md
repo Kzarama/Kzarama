@@ -51,11 +51,11 @@ Systems and Software Engineering student at ICESI University and development int
 
 <div align=center>
 
-[![kzarama's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzarama&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+![kzarama's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzarama&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzarama&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzarama&theme=chartreuse-dark&layout=compact)
 
 </div>
 
