@@ -2,12 +2,13 @@
 
 <img align='right' src=".images/octocat.gif" width="250">
 
-Systems and Software Engineering student at ICESI University and development intern at Pragma.
+Systems and Software Engineering, student of data science master's ICESI University and software developer at Pragma.
 
 ---
 
 - Working in Pragma.
 - Learning web development.
+- Apasionate for learning and develop.
 - I’m looking to collaborate on all type of projeccts.
 - Ask me about.
 
